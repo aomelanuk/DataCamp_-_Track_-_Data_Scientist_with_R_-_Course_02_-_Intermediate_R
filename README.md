@@ -14,8 +14,6 @@ The intermediate R course is the logical next stop on your journey in the R prog
 4) The apply family  
 5) Utilities  
 
-*The course is taught by [Filip Schouwenaars](https://www.datacamp.com/instructors/filipsch).*
-
 ### Prerequisites
 
 [R](https://cran.r-project.org/bin/) - R is an open source programming language and software environment for statistical computing and graphics that is supported by the R Foundation for Statistical Computing.  
@@ -32,3 +30,8 @@ The intermediate R course is the logical next stop on your journey in the R prog
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+* The course is taught by [Filip Schouwenaars](https://www.datacamp.com/instructors/filipsch).
+* All the accompanying files from this course are the property of their authors and DataCamp.
