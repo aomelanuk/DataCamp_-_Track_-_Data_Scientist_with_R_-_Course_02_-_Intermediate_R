@@ -27,11 +27,11 @@ The intermediate R course is the logical next stop on your journey in the R prog
 
 * [**Luka Ignjatović**](https://www.linkedin.com/in/lukaignjatovic/) - [GitHub](https://github.com/LukaIgnjatovic)
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 * The course is taught by [Filip Schouwenaars](https://www.datacamp.com/instructors/filipsch).
-* All the accompanying files from this course are the property of their authors and DataCamp.
+* All the accompanying files and initial code from this course are the property of their respective authors and DataCamp.
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
